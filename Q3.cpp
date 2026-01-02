@@ -16,6 +16,7 @@
 // Constraints:
 // 1 ≤ arr.size() ≤ 106
 // 1 ≤ arr[i] ≤ 104
+
 class Solution {
   public:
     int findDuplicate(const vector<int>& arr, int k) {
